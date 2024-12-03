@@ -2,7 +2,7 @@ import Mod from "../build_src/mod.ts";
 
 const HOST_ID = "cull-leaves";
 
-export default new Mod(
+const mod = new Mod(
 	"Cull Leaves",
 	"TeamMidnightDust",
 	"Adds culling to leaf blocks, providing a huge performance boost over vanilla. Similar to OptiFine's Smart Leaves feature.",
@@ -17,3 +17,5 @@ export default new Mod(
 );
 
 await mod.import_versions_from_modrinth();
+
+export default mod;
