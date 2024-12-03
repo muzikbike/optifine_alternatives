@@ -16,6 +16,6 @@ const mod = new Mod(
 	{ host: "github" }
 );
 
-await mod.import_versions_from_modrinth();
+await mod.import_versions_from_modrinth(HOST_ID);
 
 export default mod;
