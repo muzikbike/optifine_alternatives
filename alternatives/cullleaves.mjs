@@ -15,3 +15,5 @@ export default new Mod(
 	{ host: "curseforge", params: { namespace: HOST_ID } },
 	{ host: "github" }
 );
+
+await mod.import_versions_from_modrinth();
