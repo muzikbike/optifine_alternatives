@@ -35,7 +35,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 #### Client
 
 - [Cull Leaves][cull leaves] - Adds culling to leaf blocks, providing a huge performance boost over vanilla. Similar to OptiFine's Smart Leaves feature.  
-  - Available for: fabric: 1.16 -> 1.20.1, quilt: 1.17 -> 1.20.1, forge: 1.19.2 -> 1.20.1  
+  - Available for: fabric: 1.16 -> 1.20.1, 1.20.4 -> 1.21.3, quilt: 1.17 -> 1.20.1, 1.20.4 -> 1.21.3, forge: 1.19.2 -> 1.20.1, neoforge: 1.20.4 -> 1.21.3  
 - [Cull Particles][cull particles] - Don't render particles that can't be seen. Unneeded with Sodium.  
   - Available for: fabric: 1.15 -> 1.19, quilt: 1.15 -> 1.19, forge: 1.15 -> 1.16.2  
 - [Dynamic FPS][dynamic fps] - Reduce resource usage while Minecraft is in the background or idle.  
@@ -99,7 +99,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 - [LambdaBetterGrass][lambdabettergrass] - Adds better grass and snow to the game.  
   - Available for: quilt: 1.18.2 -> 1.20.1, fabric: 1.16.2 -> 1.19.2  
   - Requires [Fabric Renderer API](#compatibility "More information.")  
-- [LambDynamicLights][lambdynamiclights] - Adds dynamic lighting to the game.  
+- [LambDynamicLights][lambdynamiclights] - The most feature-complete dynamic lighting mod for Fabric.  
   - Available for: fabric: 1.15 -> 1.21.4, quilt: 1.17 -> 1.21.4  
 - [More Block Predicates][more block predicates] - Allows resource packs to change block models depending on new conditions! Custom format.  
   - Available for: fabric: 1.17 -> 1.19.2, quilt: 1.17 -> 1.19.2  
