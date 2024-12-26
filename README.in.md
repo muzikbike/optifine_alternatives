@@ -88,7 +88,7 @@ Some mods require the Fabric Renderer API to work, Canvas supports it, but Sodiu
 
 ## Missing
 
-- Custom entity models (might come in Vanilla to an unknown date?)
+- Custom entity models (might come to Vanilla at an unknown date?)
   currently incompletely replaced: current existing implementations are very hardcoded to Vanilla entities
 
 ## Need help?
